@@ -1,1 +1,2 @@
-# Carolinas-Pomodoro
+# Carolinas Pomodoro 🍅
+## This project is a simple Pomodoro timer application implemented in Python using the Tkinter library for the graphical user interface. The Pomodoro technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. The application allows users to start, pause, and reset the timer, with customizable work and break durations. It also includes sound notifications to signal the end of each interval. The goal of this project is to provide a helpful tool for improving productivity and focus during work sessions.
